@@ -101,7 +101,7 @@ This project tackles the challenge of finding optimal solutions to complex probl
 ## PROJECT STRUCTURE
 
 ```
-bayesian-optimization-competition/
+portfolio-bayesian-optimisation/
 ├── README.md                    # This file
 ├── data_sheet.md               # Dataset documentation
 ├── model_card.md               # Model specifications and limitations
